@@ -23,7 +23,7 @@ An AI agent that advises enterprises on optimizing costs of AI models (LLMs) usi
 
 ## 🌐 Live Demo
 
-👉 [Try the Live Demo Here](https://studio.lyzr.ai/agent/683c6e83ab4cb48cc17d1f3/)
+👉 [Try the Live Demo Here](https://studio.lyzr.ai/agent/683c6e83ab4cb48cc17d1f38/)
 
 ⚠ *Note:* Using the live demo will consume Lyzr credits. Visitors are responsible for any usage charges incurred.
 
