@@ -11,7 +11,7 @@ An AI agent that advises enterprises on optimizing costs of AI models (LLMs) usi
 - Visualizes cost breakdowns, latency, and accuracy metrics with charts and tables.
 - Summarizes findings with clear, structured recommendations and next steps.
 - Ensures GDPR and HIPAA compliance guidance for enterprise usage.
-- Supports integration with multiple LLM providers and APIs (e.g., Mistral, Google Gemini).
+- Supports integration with multiple LLM providers and APIs (e.g., Mistral, Google Geminiapi).
 
 ---
 
